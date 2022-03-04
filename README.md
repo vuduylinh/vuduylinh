@@ -3,6 +3,10 @@
 I'm a fullstack Developer.
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vuduylinh" alt="vuduylinh" /></a> </p>
+
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-vuduylinh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuduylinh/) 
 [![Mail Badge](https://img.shields.io/badge/-@vuduylinh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/duylinh313) 
 [![Mail Badge](https://img.shields.io/badge/-vuduylinh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vulinh3609@gmail.com)
@@ -12,7 +16,7 @@ I'm a fullstack Developer.
 [![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&labelColor=black&logo=Angular&logoColor=red)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&labelColor=black&logo=springboot&logoColor=green)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&labelColor=white&logo=Bootstrap&logoColor=purple)](#) 
 
 ### Hobbies
-- football, volleyball, cooking, traveling <img src="https://www.icegif.com/wp-content/uploads/smile-icegif-1.gif" width="28px" alt="hi">
+- football, volleyball, cooking, traveling <img src="https://www.icegif.com/wp-content/uploads/smiley-face-icegif-3.gif" width="50px" alt="hi">
 
 
 #### Github Stats
