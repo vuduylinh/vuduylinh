@@ -8,12 +8,12 @@ I'm a fullstack Developer.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-vuduylinh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuduylinh/) 
-[![Mail Badge](https://img.shields.io/badge/-@vuduylinh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/duylinh313) 
+[![Mail Badge](https://img.shields.io/badge/-@vuduylinh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/duylinh131/) 
 [![Mail Badge](https://img.shields.io/badge/-vuduylinh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vulinh3609@gmail.com)
 
 #### Top Technologies
 
-[![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&labelColor=black&logo=Angular&logoColor=red)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&labelColor=black&logo=springboot&logoColor=green)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&labelColor=white&logo=Bootstrap&logoColor=purple)](#) 
+[![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&labelColor=black&logo=Angular&logoColor=red)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&labelColor=black&logo=springboot&logoColor=green)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&labelColor=white&logo=Bootstrap&logoColor=purple)](#)
 
 ### Hobbies
 - football, volleyball, cooking, traveling <img src="https://www.icegif.com/wp-content/uploads/smiley-face-icegif-3.gif" width="50px" alt="hi">
