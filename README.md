@@ -1,6 +1,6 @@
 ## Hi I'm vuduylinh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a fullstack Developer.
+I am a final year IT student.
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vuduylinh" alt="vuduylinh" /></a> </p>
@@ -23,7 +23,6 @@ I'm a fullstack Developer.
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=vuduylinh&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
 
 
 [reactplaylist]: https://www.youtube.com/
