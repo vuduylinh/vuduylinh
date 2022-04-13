@@ -7,9 +7,7 @@ I am a final year IT student.
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-vuduylinh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C5%A9-duy-linh-440688233/) 
-[![Mail Badge](https://img.shields.io/badge/-@vuduylinh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/duylinh131/) 
-[![Mail Badge](https://img.shields.io/badge/-vuduylinh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vulinh3609@gmail.com)
+
 
 #### Top Technologies
 
