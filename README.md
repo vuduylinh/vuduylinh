@@ -3,7 +3,6 @@
 I am a final year IT student.
 
 
-<--!<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vuduylinh" alt="vuduylinh" /></a> </p> -->
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-vuduylinh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C5%A9-duy-linh-440688233/) 
